@@ -1,0 +1,134 @@
+{
+  "convoies": [
+    {
+      "id": "1",
+      "leaderId": "77-544-43",
+      "rearId": "22-445-34",
+      "missionType": "הובלה",
+      "startDate": "146107711400",
+      "finishDate": "146109955400",
+      "cargoName": "מזון",
+      "cargoAmount": "100",
+      "startPlace": "מבשרת ציון",
+      "startCoord": "31.00/45.00",
+      "endPlace": "רמת גן",
+      "endCoord": "61.00/75.00",
+      "commander": "ידיד אמת",
+      "commanderPhone": "0544444444",
+      "isArrived": true,
+      "inMotion": false
+    },
+    {
+      "id": "2",
+      "leaderId": "76-344-43",
+      "rearId": "21-445-34",
+      "missionType": "הפממה",
+      "startDate": "146107231403",
+      "finishDate": "146109955400",
+      "cargoName": "בגדים",
+      "cargoAmount": "4",
+      "startPlace": "תל אביב",
+      "startCoord": "31.00/45.00",
+      "endPlace": "מבשרת ציון",
+      "endCoord": "61.00/75.00",
+      "commander": "ידיד אמת",
+      "commanderPhone": "0522222222",
+      "isArrived": true,
+      "inMotion": false
+    },
+    {
+      "id": "3",
+      "leaderId": "27-009-17",
+      "rearId": "24-005-98",
+      "missionType": "הפממה",
+      "startDate": "1567865727295",
+      "finishDate": "1563984927295",
+      "cargoName": "מזון",
+      "cargoAmount": "4",
+      "startPlace": "ירושלים",
+      "startCoord": "31.00/45.00",
+      "endPlace": "מודיעין",
+      "endCoord": "61.00/75.00",
+      "commander": "זורז'ט בטיסטה",
+      "commanderPhone": "0525116841",
+      "isArrived": true,
+      "inMotion": false
+    }
+  ],
+  "convoyProp": [
+    {
+      "displayName": "מספר שדרה",
+      "realName": "id"
+    },
+    {
+      "displayName": "מספר רכב בראש",
+      "realName": "leaderId"
+    },
+    {
+      "displayName": "מספר רכב בזנב",
+      "realName": "rearId"
+    },
+    {
+      "displayName": "סוג משימה",
+      "realName": "missionType"
+    },
+    {
+      "displayName": "זמן תחילת תנועה",
+      "realName": "startDate"
+    },
+    {
+      "displayName": "זמן מתוכנן לסיום",
+      "realName": "finishDate"
+    },
+    {
+      "displayName": "תיאור מטען",
+      "realName": "cargoName"
+    },
+    {
+      "displayName": "מקום מוצא",
+      "realName": "startPlace"
+    },
+    {
+      "displayName": "קורדינטת מוצא",
+      "realName": "startCoord"
+    },
+    {
+      "displayName": "מקום יעד",
+      "realName": "endCoord"
+    },
+    {
+      "displayName": "מפקד שדרה",
+      "realName": "commander"
+    },
+    {
+      "displayName": "מספר ליצירת קשר",
+      "realName": "commanderPhone"
+    }
+  ],
+  "convoyBrief": [
+    {
+      "displayName": "מספר שדרה",
+      "realName": "id"
+    },
+    {
+      "displayName": "סוג משימה",
+      "realName": "missionType"
+    },
+    {
+      "displayName": "זמן תחילת תנועה",
+      "realName": "startDate"
+    },
+    {
+      "displayName": "זמן מתוכנן לסיום",
+      "realName": "finishDate"
+    },
+    {
+      "displayName": "תיאור מטען",
+      "realName": "cargoName"
+    },
+    {
+      "displayName": "מפקד שדרה",
+      "realName": "commander"
+    }
+  ]
+}
